@@ -11,5 +11,4 @@ Pytorch </br>
 > python3.6 test_CIFAR100.py --model_path model.pth --out_dir ./output/ --data-dir cifar-data100 </br>
 > python3.6 test_TinyImageNet.py --model_path model.pth --out_dir ./output/ --data-dir TinyImageNet
 ## Trained Models
-> The Trained models can be downloaded from the [Baidu Cloud](https://pan.baidu.com/s/1ZEv-7gSEI4gi64PvCnM3ww)(Extraction: 1234.) or the [Google Drive](https://drive.google.com/drive/folders/1972Yhxte4318qbpllyul5dVmvo-VpWVW?usp=sharing)
-
+> The Trained models can be downloaded from the [Baidu Cloud](https://pan.baidu.com/s/1fmnO9jZw5Fcwy5B28bvRSw)(Extraction: 1234.) or the [Google Drive](https://drive.google.com/drive/folders/13ZZGAIzXuvfCvjMGD69Qude3p3gE0r7b?usp=sharing)
