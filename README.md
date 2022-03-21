@@ -7,8 +7,8 @@ Code for LAS-AT: Adversarial Training with Learnable Attack Strategy (CVPR2022)
 Python3 </br>
 Pytorch </br>
 ## Test
-> python3.6 test_CIFAR10.py --model_path model.pth --out_dir ./output/ --data-dir cifar-data
-> python3.6 test_CIFAR100.py --model_path model.pth --out_dir ./output/ --data-dir cifar-data100
+> python3.6 test_CIFAR10.py --model_path model.pth --out_dir ./output/ --data-dir cifar-data </br>
+> python3.6 test_CIFAR100.py --model_path model.pth --out_dir ./output/ --data-dir cifar-data100 </br>
 > python3.6 test_TinyImageNet.py --model_path model.pth --out_dir ./output/ --data-dir TinyImageNet
 ## Trained Models
 > The Trained models can be downloaded from the [Baidu Cloud](https://pan.baidu.com/s/1ZEv-7gSEI4gi64PvCnM3ww)(Extraction: 1234.) or the [Google Drive](https://drive.google.com/drive/folders/1972Yhxte4318qbpllyul5dVmvo-VpWVW?usp=sharing)
