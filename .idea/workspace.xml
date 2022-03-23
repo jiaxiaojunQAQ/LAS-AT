@@ -2,69 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59326ee4-4167-465c-b0e8-0e2610ec0674" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LAS-AT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR100_models/DRN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR100_models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR100_models/densenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR100_models/dpn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR100_models/efficientnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR100_models/googlenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR100_models/lenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR100_models/mobilenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR100_models/mobilenetv2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR100_models/pnasnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR100_models/preact_resnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR100_models/regnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR100_models/resnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR100_models/resnext.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR100_models/senet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR100_models/shufflenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR100_models/shufflenetv2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR100_models/vgg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR100_models/wide_resnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR10_models/DRN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR10_models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR10_models/densenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR10_models/dpn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR10_models/efficientnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR10_models/googlenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR10_models/lenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR10_models/mobilenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR10_models/mobilenetv2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR10_models/pnasnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR10_models/preact_resnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR10_models/regnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR10_models/resnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR10_models/resnext.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR10_models/senet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR10_models/shufflenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR10_models/shufflenetv2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR10_models/vgg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/CIFAR10_models/wide_resnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/LAS_AT_train_TinyImageNet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/LAS_AT_train_cifar10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/LAS_AT_train_cifar100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/StrategyNet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/TinyImageNet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/TinyImageNet_StrategyNet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/TinyImageNet_models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/TinyImageNet_models/densenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/TinyImageNet_models/dpn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/TinyImageNet_models/googlenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/TinyImageNet_models/lenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/TinyImageNet_models/mobilenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/TinyImageNet_models/preact_resnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/TinyImageNet_models/resnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/TinyImageNet_models/resnext.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/TinyImageNet_models/senet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/TinyImageNet_models/shufflenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/TinyImageNet_models/vgg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/TinyImageNet_models/wide_resnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAS_PGD_AT/TinyImageNet_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR100_models/DRN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR100_models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR100_models/densenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR100_models/dpn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR100_models/efficientnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR100_models/googlenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR100_models/lenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR100_models/mobilenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR100_models/mobilenetv2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR100_models/pnasnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR100_models/preact_resnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR100_models/regnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR100_models/resnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR100_models/resnext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR100_models/senet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR100_models/shufflenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR100_models/shufflenetv2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR100_models/vgg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR100_models/wide_resnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR10_models/DRN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR10_models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR10_models/densenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR10_models/dpn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR10_models/efficientnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR10_models/googlenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR10_models/lenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR10_models/mobilenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR10_models/mobilenetv2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR10_models/pnasnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR10_models/preact_resnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR10_models/regnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR10_models/resnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR10_models/resnext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR10_models/senet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR10_models/shufflenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR10_models/shufflenetv2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR10_models/vgg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/CIFAR10_models/wide_resnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/LAS_Trades_train_TinyImageNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/LAS_Trades_train_cifar10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/LAS_Trades_train_cifar100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/StrategyNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/TinyImageNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/TinyImageNet_StrategyNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/TinyImageNet_models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/TinyImageNet_models/densenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/TinyImageNet_models/dpn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/TinyImageNet_models/googlenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/TinyImageNet_models/lenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/TinyImageNet_models/mobilenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/TinyImageNet_models/preact_resnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/TinyImageNet_models/resnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/TinyImageNet_models/resnext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/TinyImageNet_models/senet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/TinyImageNet_models/shufflenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/TinyImageNet_models/vgg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/TinyImageNet_models/wide_resnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/TinyImageNet_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAS_Trades/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,10 +72,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LAS_PGD_AT/LAS_AT_train_cifar100.py">
+        <entry file="file://$PROJECT_DIR$/LAS_Trades/LAS_Trades_train_cifar100.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8450">
-              <caret line="351" column="40" selection-start-line="351" selection-start-column="40" selection-end-line="351" selection-end-column="40" />
+            <state relative-caret-position="175">
+              <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
               <folding>
                 <element signature="e#18#33#0" expanded="true" />
               </folding>
@@ -87,13 +84,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LAS_PGD_AT/LAS_AT_train_TinyImageNet.py">
+        <entry file="file://$PROJECT_DIR$/LAS_Trades/LAS_Trades_train_TinyImageNet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="74" column="54" lean-forward="true" selection-start-line="74" selection-start-column="54" selection-end-line="74" selection-end-column="54" />
+            <state relative-caret-position="225">
+              <caret line="161" column="24" lean-forward="true" selection-start-line="161" selection-start-column="24" selection-end-line="161" selection-end-column="24" />
               <folding>
                 <element signature="e#18#33#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LAS_Trades/TinyImageNet_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LAS_Trades/TinyImageNet_StrategyNet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1000">
+              <caret line="153" column="20" lean-forward="true" selection-start-line="153" selection-start-column="20" selection-end-line="153" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -112,6 +127,7 @@
       <find>evaluate_pgd_cw</find>
       <find>policy</find>
       <find>StrategyNet</find>
+      <find>beta</find>
       <find>policy_optimizer</find>
     </findStrings>
   </component>
@@ -135,12 +151,18 @@
         <option value="$PROJECT_DIR$/LAS_PGD_AT/LAS_AT_train_cifar100.py" />
         <option value="$PROJECT_DIR$/LAS_PGD_AT/TinyImageNet_StrategyNet.py" />
         <option value="$PROJECT_DIR$/LAS_PGD_AT/LAS_AT_train_TinyImageNet.py" />
+        <option value="$PROJECT_DIR$/LAS_Trades.py" />
+        <option value="$PROJECT_DIR$/LAS_Trades/StrategyNet.py" />
+        <option value="$PROJECT_DIR$/LAS_Trades/LAS_Trades_train_cifar10.py" />
+        <option value="$PROJECT_DIR$/LAS_Trades/LAS_Trades_train_cifar100.py" />
+        <option value="$PROJECT_DIR$/LAS_Trades/TinyImageNet_StrategyNet.py" />
+        <option value="$PROJECT_DIR$/LAS_Trades/LAS_Trades_train_TinyImageNet.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-54" />
-    <option name="y" value="47" />
+    <option name="x" value="-27" />
+    <option name="y" value="76" />
     <option name="width" value="1940" />
     <option name="height" value="813" />
   </component>
@@ -161,6 +183,11 @@
               <item name="LAS-AT" type="462c0819:PsiDirectoryNode" />
               <item name="LAS_PGD_AT" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LAS-AT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LAS-AT" type="462c0819:PsiDirectoryNode" />
+              <item name="LAS_Trades" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -176,7 +203,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Classification_Task_Defense" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LAS_Trades" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -189,6 +216,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\LAS-AT\LAS_Trades" />
       <recent name="D:\LAS-AT\LAS_PGD_AT" />
       <recent name="D:\LAS-AT" />
     </key>
@@ -296,12 +324,12 @@
       <workItem from="1647779073820" duration="21604000" />
       <workItem from="1647824708119" duration="1658000" />
       <workItem from="1647930082875" duration="5430000" />
-      <workItem from="1647958742753" duration="2810000" />
+      <workItem from="1647958742753" duration="10225000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37160000" />
+    <option name="totallyTimeSpent" value="44575000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -313,7 +341,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-54" y="47" width="1940" height="813" extended-state="0" />
+    <frame x="-27" y="76" width="1940" height="813" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26595744" />
@@ -467,16 +495,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LAS_PGD_AT/LAS_AT_train_cifar10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-140">
-          <caret line="32" column="50" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="54" />
-          <folding>
-            <element signature="e#18#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LAS_PGD_AT/TinyImageNet_utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -513,20 +531,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LAS_Trades.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAS_Trades/CIFAR10_models/dpn.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAS_PGD_AT/LAS_AT_train_TinyImageNet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="191" column="16" selection-start-line="191" selection-start-column="16" selection-end-line="191" selection-end-column="16" />
+          <folding>
+            <element signature="e#18#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAS_Trades/utils.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/LAS_PGD_AT/StrategyNet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="158" column="13" selection-start-line="158" selection-start-column="4" selection-end-line="158" selection-end-column="21" />
+        <state relative-caret-position="729">
+          <caret line="159" column="19" selection-start-line="159" selection-start-column="11" selection-end-line="159" selection-end-column="26" />
           <folding>
             <element signature="e#211#223#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LAS_PGD_AT/LAS_AT_train_TinyImageNet.py">
+    <entry file="file://$PROJECT_DIR$/LAS_Trades/StrategyNet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="74" column="54" lean-forward="true" selection-start-line="74" selection-start-column="54" selection-end-line="74" selection-end-column="54" />
+        <state relative-caret-position="179">
+          <caret line="160" column="13" lean-forward="true" selection-start-line="160" selection-start-column="4" selection-end-line="160" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAS_PGD_AT/LAS_AT_train_cifar10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAS_Trades/LAS_Trades_train_cifar10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+          <folding>
+            <element signature="e#18#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAS_Trades/LAS_Trades_train_cifar100.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+          <folding>
+            <element signature="e#18#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAS_Trades/TinyImageNet_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAS_Trades/TinyImageNet_StrategyNet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="153" column="20" lean-forward="true" selection-start-line="153" selection-start-column="20" selection-end-line="153" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAS_Trades/LAS_Trades_train_TinyImageNet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="161" column="24" lean-forward="true" selection-start-line="161" selection-start-column="24" selection-end-line="161" selection-end-column="24" />
           <folding>
             <element signature="e#18#33#0" expanded="true" />
           </folding>
