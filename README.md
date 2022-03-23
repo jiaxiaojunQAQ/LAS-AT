@@ -6,9 +6,19 @@ Code for LAS-AT: Adversarial Training with Learnable Attack Strategy (CVPR2022)
 ## Requirements
 Python3 </br>
 Pytorch </br>
+
+## Train for LAS-PGD-AT
+* On CIFAR10
+> python3 LAS_AT_train_cifar10.py --model WideResNet --epsilon_types 3 4 5 6 7 8 9 10 11 12 13 14 15 --attack_iters_types 3 4 5 6 7 8 9 10 11 12 13 14 --step_size_types  1 2 3 4 5  --epochs 110  --data-dir cifar-data  --out-dir CIFAR10/LAS_PGD_AT </br>
+* On CIFAR100
+> python3 LAS_AT_train_cifar100.py --model WideResNet --epsilon_types 3 4 5 6 7 8 9 10 11 12 13 14 15 --attack_iters_types 3 4 5 6 7 8 9 10 11 12 --step_size_types  1 2 3 4 5  --epochs 110  --data-dir cifar-data100  --out-dir CIFAR100/LAS_PGD_AT
+* On TinyImageNet
+> python3 LAS_AT_train_TinyImageNet.py --model PreActResNest18 --epsilon_types 3 4 5 6 7 8 9 10 11 12 13 14 15 --attack_iters_types 3 4 5 6 7 8 9 10 11 12 13 14 --step_size_types  1 2 3 4 5  --epochs 110  --data-dir tiny-imagenet-200  --out-dir TinyImageNet/LAS_PGD_AT
+
+
 ## Test
-> python3.6 test_CIFAR10.py --model_path model.pth --out_dir ./output/ --data-dir cifar-data </br>
-> python3.6 test_CIFAR100.py --model_path model.pth --out_dir ./output/ --data-dir cifar-data100 </br>
-> python3.6 test_TinyImageNet.py --model_path model.pth --out_dir ./output/ --data-dir TinyImageNet
+> + python3.6 test_CIFAR10.py --model_path model.pth --out_dir ./output/ --data-dir cifar-data </br>
+> + python3.6 test_CIFAR100.py --model_path model.pth --out_dir ./output/ --data-dir cifar-data100 </br>
+> + python3.6 test_TinyImageNet.py --model_path model.pth --out_dir ./output/ --data-dir tiny-imagenet-200
 ## Trained Models
 > The Trained models can be downloaded from the [Baidu Cloud](https://pan.baidu.com/s/1fmnO9jZw5Fcwy5B28bvRSw)(Extraction: 1234.) or the [Google Drive](https://drive.google.com/drive/folders/13ZZGAIzXuvfCvjMGD69Qude3p3gE0r7b?usp=sharing)
