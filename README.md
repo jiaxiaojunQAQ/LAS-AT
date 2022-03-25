@@ -17,11 +17,11 @@ Pytorch </br>
 
 ## Train for LAS-Trades
 * On CIFAR10
-> python3 LAS_AT_train_cifar10.py --model WideResNet --epsilon_types  5 6 7 8 9  --attack_iters_types  7 8 9 10 11 12 13 14 --step_size_types  2 3 4 --beta_types 5 6 7 8 9  --epochs 100  --data-dir cifar-data  --out-dir CIFAR10/LAS_Trades 
+> python3 LAS_Trades_train_cifar10.py --model WideResNet --epsilon_types  5 6 7 8 9  --attack_iters_types  7 8 9 10 11 12 13 14 --step_size_types  2 3 4 --beta_types 5 6 7 8 9  --epochs 100  --data-dir cifar-data  --out-dir CIFAR10/LAS_Trades 
 * On CIFAR100
-> python3 LAS_AT_train_cifar100.py --model WideResNet --epsilon_types 5 6 7 8 9 10 --attack_iters_types 7 8 9 10 11 12 13 14 --step_size_types  2 3 4  --beta_types 5 6 7 8 9  --epochs 100 --data-dir cifar-data100  --out-dir CIFAR100/LAS_Trades
+> python3 LAS_Trades_train_cifar100.py --model WideResNet --epsilon_types 5 6 7 8 9 10 --attack_iters_types 7 8 9 10 11 12 13 14 --step_size_types  2 3 4  --beta_types 5 6 7 8 9  --epochs 100 --data-dir cifar-data100  --out-dir CIFAR100/LAS_Trades
 * On TinyImageNet
-> python3 LAS_AT_train_TinyImageNet.py --model PreActResNest18 --epsilon_types 5 6 7 8 9 10 --attack_iters_types 7 8 9 10 11 12 13 14 --step_size_types  2 3 4 --beta_types 5 6 7 8 9  --epochs 110  --data-dir tiny-imagenet-200  --out-dir TinyImageNet/LAS_Trades
+> python3 LAS_Trades_train_TinyImageNet.py --model PreActResNest18 --epsilon_types 5 6 7 8 9 10 --attack_iters_types 7 8 9 10 11 12 13 14 --step_size_types  2 3 4 --beta_types 5 6 7 8 9  --epochs 110  --data-dir tiny-imagenet-200  --out-dir TinyImageNet/LAS_Trades
 
 
 ## Test
